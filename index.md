@@ -13,7 +13,7 @@ humandate: "Jun 1/3/4/5, 2020"    # human-readable dates for the workshop (e.g.,
 humantime: "10:30 am - 12:00 pm CDT (Jun 1/3/5), 12:00 pm - 1:00 pm (Jun 4)"    # human-readable times for the workshop (e.g., "9:00 am - 4:30 pm")
 startdate: 2020-06-01      # machine-readable start date for the workshop in YYYY-MM-DD format like 2015-01-01
 enddate: 2020-06-05        # machine-readable end date for the workshop in YYYY-MM-DD format like 2015-01-02
-instructor: ["Neal E Davis", "Elizabeth Wickes", "Maxim Belkin", "Lena Bohman", "Jenna Jordan", "Katie Lee"] # boxed, comma-separated list of instructors' names as strings, like ["Kay McNulty", "Betty Jennings", "Betty Snyder"]
+instructor: ["Maxim Belkin", "Lena Bohman", "Neal E Davis", "Jenna Jordan", "Katie Lee", "Elizabeth Wickes"] # boxed, comma-separated list of instructors' names as strings, like ["Kay McNulty", "Betty Jennings", "Betty Snyder"]
 helper: []     # boxed, comma-separated list of helpers' names, like ["Marlyn Wescoff", "Fran Bilas", "Ruth Lichterman"]
 email: ["mbelkin@illinois.edu"]    # boxed, comma-separated list of contact email addresses for the host, lead instructor, or whoever else is handling questions, like ["marlyn.wescoff@example.org", "fran.bilas@example.org", "ruth.lichterman@example.org"]
 collaborative_notes: https://codimd.carpentries.org/M6fhhacsQSme68h_0ncxLw?both # optional: URL for the workshop collaborative notes, e.g. an Etherpad or Google Docs document (e.g., https://pad.carpentries.org/2015-01-01-euphoria)
